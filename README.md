@@ -1,2 +1,2 @@
 # Data-Science-Projects
-My data science personal projects as of 2023
+My data science personal projects as of 2023. I've uploaded my Extract, Transform, and Load project on the Sakila example database. I've also uploaded my portion of the CrimeWatch 2023 Hoohacks Project, which is an ETL on Charlottesville Crime Data and a k-means clustering algorithm to group similar crimes by location, time, and threat levels. I also have the continuation of the CrimeWatch project, which uses the DB-Scan algorithm and data visualization to plot the clusters on a map of Charlottesville on different values of k, targeted towards applications for the Charlottesville Police Department.
